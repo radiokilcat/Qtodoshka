@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TaskView.qml</file>
+        <file>Task.qml</file>
+        <file>Navbar.qml</file>
+        <file>ActivityScale.qml</file>
+        <file>TimeLabel.qml</file>
+        <file>img/plus.svg.png</file>
+        <file>img/checkmark.png</file>
+        <file>img/cross.svg.png</file>
+    </qresource>
+</RCC>
